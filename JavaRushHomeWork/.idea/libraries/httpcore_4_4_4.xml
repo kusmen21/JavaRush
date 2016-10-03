@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="httpcore-4.4.4">
+    <CLASSES>
+      <root url="jar://D:/programming/apache_http_client/httpcomponents-client-4.5.2-bin/httpcomponents-client-4.5.2/lib/httpcore-4.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
